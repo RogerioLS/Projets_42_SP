@@ -1,0 +1,6 @@
+[submodule "01_Libft-42sp"]
+	path = 01_Libft-42sp
+	url = https://github.com/RogerioLS/Libft-42sp.git
+[submodule "02_Get_Next_Line-42sp"]
+	path = 02_Get_Next_Line-42sp
+	url = https://github.com/RogerioLS/Get_Next_Line-42sp.git
