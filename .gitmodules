@@ -10,3 +10,6 @@
 [submodule "04_Born2BeRoot-42sp"]
 	path = 04_Born2BeRoot-42sp
 	url = https://github.com/RogerioLS/Born2BeRoot-42sp.git
+[submodule "05_Fractol-42sp"]
+	path = 05_Fractol-42sp
+	url = https://github.com/RogerioLS/Fractol-42sp
