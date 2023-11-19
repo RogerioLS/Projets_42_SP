@@ -7,3 +7,6 @@
 [submodule "03_Ft_Printf-42sp"]
 	path = 03_Ft_Printf-42sp
 	url = https://github.com/RogerioLS/Ft_Printf-42sp
+[submodule "04_Born2BeRoot-42sp"]
+	path = 04_Born2BeRoot-42sp
+	url = https://github.com/RogerioLS/Born2BeRoot-42sp.git
