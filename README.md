@@ -46,7 +46,7 @@ Todos os projetos da fase 1 são individuais. A partir da fase 2, tripulantes da
 | **[ft_printf](https://github.com/RogerioLS/Ft_Printf-42sp)** 	| String de formatação e funções variádicas. 	| Faça sua própria ```printf```! Este projeto é subsequentemente incorporado à Libft.	|
 | **[Born2BeRoot](https://github.com/RogerioLS/Born2BeRoot-42sp)** 	| Virtualização. 	| Monte um servidor SSH em Linux, com elementos fundamentais de administração de sistemas, regras de senha forte, criptografia e muito mais.	|
 | **[Fractol](https://github.com/RogerioLS/Fractol-42sp)** / So_Long / FDF 	| Renderização de janelas e gerendiamento de eventos de mouse/teclado. 	| Aprendendo a desenhar visuais gráficos em janelas! Escolha entre desenhar fractais (`fractol`), projeção semi-3D isométrica (`fdf`) ou um videogame top-down em 2D (`so_long`). Projetos feitos utilizando a Minilibx, uma API do sistema X11. 	|
-| **[pipex]()** / minitalk 	| Introdução a processos Unix. 	| Escolha entre construir um par de cliente e servidor conversando entre si (`minitalk`), ou simular o operador de *pipe* (`\|`) do Bash usando os conceitos de *pipes* e *forks* em C (`pipex`).	|
+| **[minitalk](https://github.com/RogerioLS/Mini_Talk-42sp)** / minitalk 	| Introdução a processos Unix. 	| Escolha entre construir um par de cliente e servidor conversando entre si (`minitalk`), ou simular o operador de *pipe* (`\|`) do Bash usando os conceitos de *pipes* e *forks* em C (`pipex`).	|
 
 
 ## Fase 2
