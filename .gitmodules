@@ -13,3 +13,6 @@
 [submodule "02_Get_Next_Line-42sp"]
 	path = 02_Get_Next_Line-42sp
 	url = https://github.com/RogerioLS/Get_Next_Line-42sp
+[submodule "06_Mini_Talk-42sp"]
+	path = 06_Mini_Talk-42sp
+	url = https://github.com/RogerioLS/Mini_Talk-42sp
