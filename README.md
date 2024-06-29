@@ -1,7 +1,7 @@
 # Projetos na 42sp
 Todos os projetos desenvolvidos na escola 42 São Paulo.
 
-[![roglopes's 42 stats](https://badge42.vercel.app/api/v2/clljwl4dk005408mn48ta77wy/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
+[![roglopes's 42 stats](https://badge.mediaplus.ma/greenbinary/roglopes?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 - [O que é a 42](#o-que-é-a-42)
 - [Visão geral do currículo](#visão-geral-do-currículo)
