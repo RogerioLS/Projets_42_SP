@@ -16,3 +16,6 @@
 [submodule "06_Mini_Talk-42sp"]
 	path = 06_Mini_Talk-42sp
 	url = https://github.com/RogerioLS/Mini_Talk-42sp
+[submodule "07_Minishell-42sp"]
+	path = Minishell-42sp
+	url = git@github.com:RogerioLS/Minishell-42sp.git
