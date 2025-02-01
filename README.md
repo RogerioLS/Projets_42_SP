@@ -52,9 +52,9 @@ Todos os projetos da fase 1 são individuais. A partir da fase 2, tripulantes da
 ## Fase 2
 |   nome	|   assunto	|   resumo	|
 |---	|---	|---	|
-| **[Push_Swap]()** 	| Algoritmos de ordenação e pilhas. 	| Uma lista de números desordenados deve ser ordenada, com um detalhe: para serem ordenados, devem-se utilizar exatamente `duas pilhas`, e 11 operações de pilhas pré-determinadas.	|
-| **[Minishell]()** :restroom: 	| Uma versão mini de uma shell Bash escrita em C. 	| Inclui a análise léxica e semântica necessária para operar pipelines e redirecionamentos, determinados built-ins, e a estrutura necessária para executar comandos via `$PATH` ou caminhos absolutos.	|
-| **[Philosophers]()** 	| Paralelismo com *threads* em C. 	| Resolva o famoso problema do Jantar de Filósofes proposto por Dijkstra, evitando concorrência de dados (*data racing*) e impasses (*deadlocks*).	|
+| **[Push_Swap](https://github.com/RogerioLS/Push_Swap-42sp)** 	| Algoritmos de ordenação e pilhas. 	| Uma lista de números desordenados deve ser ordenada, com um detalhe: para serem ordenados, devem-se utilizar exatamente `duas pilhas`, e 11 operações de pilhas pré-determinadas.	|
+| **[Minishell](https://github.com/RogerioLS/Minishell-42sp)** :restroom: 	| Uma versão mini de uma shell Bash escrita em C. 	| Inclui a análise léxica e semântica necessária para operar pipelines e redirecionamentos, determinados built-ins, e a estrutura necessária para executar comandos via `$PATH` ou caminhos absolutos.	|
+| **[Philosophers](https://github.com/RogerioLS/Philosophers-42sp)** 	| Paralelismo com *threads* em C. 	| Resolva o famoso problema do Jantar de Filósofes proposto por Dijkstra, evitando concorrência de dados (*data racing*) e impasses (*deadlocks*).	|
 | **Netpractice** 	| Redes e roteamento. 	| Uma série de problemas simulando LAN's e redes conectadas à internet. Para resolvê-los (em menos de 15 minutos!) é necessário conhecimento de *endereços IP* e *tabelas de roteamento*.	|
 | **[Cub3d]()** / miniRT :restroom: 	| Renderização 3D 	| Estudo aprofundado sobre computação gráfica para construir um motor de renderização em janelas utilizando a Minilibx. Escolha entre a renderização de perspectivas 3D por meio de raios projetados (*raycasting*, projeto `cub3d`), ou de renderização de objetos 3D com a técnica de contorno por luz e sombra (*raycasting*, projeto `miniRT`).	|
 
