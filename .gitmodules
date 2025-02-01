@@ -19,3 +19,6 @@
 [submodule "07_Minishell-42sp"]
 	path = 07_Minishell-42sp
 	url = git@github.com:RogerioLS/Minishell-42sp.git
+[submodule "08_Push_Swap-42sp"]
+	path = 08_Push_Swap-42sp
+	url = https://github.com/RogerioLS/Push_Swap-42sp
