@@ -28,3 +28,6 @@
 [submodule "10_Cub3D-42sp"]
 	path = 10_cub3D-42sp
 	url = https://github.com/RogerioLS/Cub3D-42sp
+[submodule "11_CPP-42sp"]
+	path = 11_CPP-42sp
+	url = https://github.com/RogerioLS/CPP-42sp

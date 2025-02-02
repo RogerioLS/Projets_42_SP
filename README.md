@@ -61,7 +61,7 @@ Todos os projetos da fase 1 são individuais. A partir da fase 2, tripulantes da
 ## Fase 3
 |   nome	|   assunto	|   resumo	|
 |---	|---	|---	|
-| **CPP**	| Programação Orientada a Objetos.	| 9 listas de exercícios para guiar o aprendizado mão-na-massa sobre conceitos clássicos da POO.	|
+| **[CPP](https://github.com/RogerioLS/CPP-42sp)**	| Programação Orientada a Objetos.	| 9 listas de exercícios para guiar o aprendizado mão-na-massa sobre conceitos clássicos da POO.	|
 | **ft_containers**	| Estruturas de dados clássicas.	| Cosntrua sua própria réplica de alguns *containers* (estruturas de dados) da biblioteca padrão de C++: *vectors*, *maps*, *stacks* e árvore binária rubro-negra, implementando classes, iteradores, *overload* de operadores e mais.	|
 | **inception**	| Containerização de uma aplicação web.	| Usando `docker-compose` e `Dockerfile`, configure uma rede de containers que contém os serviços necessários para rodar um servidor de Wordpress (servindo arquivos estáticos HTML e com banco de dados).	|
 | **webserv / ft_irc** :restroom:	| Protocolos da Internet em C++.	| Escolha entre construir um servidor HTTP que recebe requisições e serve um arquivo estático (`webserv`) ou um serviço de bate-papo IRC que segue o protocolo TCP/IP (`ft_irc`). 	|
