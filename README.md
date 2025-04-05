@@ -1,3 +1,5 @@
+
+
 # Projetos na 42sp
 Todos os projetos desenvolvidos na escola 42 São Paulo.
 
@@ -77,10 +79,15 @@ git clone --recurse-submodules https://github.com/RogerioLS/Projets_42_SP.git
 
 Mas se quiser clonar apenas o código de um projeto específico, basta clicar no link do projeto desejado na página principal deste repositório, e cloná-lo.
 
-<br><br>
+# Profile Intra
+
+<div align="center">
+
+<a href="https://42term.vercel.app"><img src="https://42term.vercel.app/api/widget/student/roglopes?theme=dark" alt="roglopes 42 student" /></a>
+
+</div>
 
 ---
 
-<br><br>
 
 ### **Valeu!** :wink:
