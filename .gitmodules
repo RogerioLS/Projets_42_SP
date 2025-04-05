@@ -31,3 +31,6 @@
 [submodule "11_CPP-42sp"]
 	path = 11_CPP-42sp
 	url = https://github.com/RogerioLS/CPP-42sp
+[submodule "12_Net_Practice-42sp"]
+	path = 12_Net_Practice-42sp
+	url = https://github.com/RogerioLS/Net_Practice-42sp
