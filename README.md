@@ -47,7 +47,7 @@ Todos os projetos da fase 1 são individuais. A partir da fase 2, tripulantes da
 | **[ft_printf](https://github.com/RogerioLS/Ft_Printf-42sp)** 	| String de formatação e funções variádicas. 	| Faça sua própria ```printf```! Este projeto é subsequentemente incorporado à Libft.	|
 | **[Born2BeRoot](https://github.com/RogerioLS/Born2BeRoot-42sp)** 	| Virtualização. 	| Monte um servidor SSH em Linux, com elementos fundamentais de administração de sistemas, regras de senha forte, criptografia e muito mais.	|
 | **[Fractol](https://github.com/RogerioLS/Fractol-42sp)** / So_Long / FDF 	| Renderização de janelas e gerendiamento de eventos de mouse/teclado. 	| Aprendendo a desenhar visuais gráficos em janelas! Escolha entre desenhar fractais (`fractol`), projeção semi-3D isométrica (`fdf`) ou um videogame top-down em 2D (`so_long`). Projetos feitos utilizando a Minilibx, uma API do sistema X11. 	|
-| **[minitalk](https://github.com/RogerioLS/Mini_Talk-42sp)** / minitalk 	| Introdução a processos Unix. 	| Escolha entre construir um par de cliente e servidor conversando entre si (`minitalk`), ou simular o operador de *pipe* (`\|`) do Bash usando os conceitos de *pipes* e *forks* em C (`pipex`).	|
+| **[minitalk](https://github.com/RogerioLS/Mini_Talk-42sp)** / pipex 	| Introdução a processos Unix. 	| Escolha entre construir um par de cliente e servidor conversando entre si (`minitalk`), ou simular o operador de *pipe* (`\|`) do Bash usando os conceitos de *pipes* e *forks* em C (`pipex`).	|
 
 
 ## Fase 2
@@ -56,14 +56,13 @@ Todos os projetos da fase 1 são individuais. A partir da fase 2, tripulantes da
 | **[Push_Swap](https://github.com/RogerioLS/Push_Swap-42sp)** 	| Algoritmos de ordenação e pilhas. 	| Uma lista de números desordenados deve ser ordenada, com um detalhe: para serem ordenados, devem-se utilizar exatamente `duas pilhas`, e 11 operações de pilhas pré-determinadas.	|
 | **[Minishell](https://github.com/RogerioLS/Minishell-42sp)** :restroom: 	| Uma versão mini de uma shell Bash escrita em C. 	| Inclui a análise léxica e semântica necessária para operar pipelines e redirecionamentos, determinados built-ins, e a estrutura necessária para executar comandos via `$PATH` ou caminhos absolutos.	|
 | **[Philosophers](https://github.com/RogerioLS/Philosophers-42sp)** 	| Paralelismo com *threads* em C. 	| Resolva o famoso problema do Jantar de Filósofes proposto por Dijkstra, evitando concorrência de dados (*data racing*) e impasses (*deadlocks*).	|
-| **Netpractice** 	| Redes e roteamento. 	| Uma série de problemas simulando LAN's e redes conectadas à internet. Para resolvê-los (em menos de 15 minutos!) é necessário conhecimento de *endereços IP* e *tabelas de roteamento*.	|
+| **[Netpractice](https://github.com/RogerioLS/Net_Practice-42sp)** 	| Redes e roteamento. 	| Uma série de problemas simulando LAN's e redes conectadas à internet. Para resolvê-los (em menos de 15 minutos!) é necessário conhecimento de *endereços IP* e *tabelas de roteamento*.	|
 | **[Cub3d](https://github.com/RogerioLS/Cub3D-42sp)** / miniRT :restroom: 	| Renderização 3D 	| Estudo aprofundado sobre computação gráfica para construir um motor de renderização em janelas utilizando a Minilibx. Escolha entre a renderização de perspectivas 3D por meio de raios projetados (*raycasting*, projeto `cub3d`), ou de renderização de objetos 3D com a técnica de contorno por luz e sombra (*raycasting*, projeto `miniRT`).	|
 
 ## Fase 3
 |   nome	|   assunto	|   resumo	|
 |---	|---	|---	|
 | **[CPP](https://github.com/RogerioLS/CPP-42sp)**	| Programação Orientada a Objetos.	| 9 listas de exercícios para guiar o aprendizado mão-na-massa sobre conceitos clássicos da POO.	|
-| **ft_containers**	| Estruturas de dados clássicas.	| Cosntrua sua própria réplica de alguns *containers* (estruturas de dados) da biblioteca padrão de C++: *vectors*, *maps*, *stacks* e árvore binária rubro-negra, implementando classes, iteradores, *overload* de operadores e mais.	|
 | **inception**	| Containerização de uma aplicação web.	| Usando `docker-compose` e `Dockerfile`, configure uma rede de containers que contém os serviços necessários para rodar um servidor de Wordpress (servindo arquivos estáticos HTML e com banco de dados).	|
 | **webserv / ft_irc** :restroom:	| Protocolos da Internet em C++.	| Escolha entre construir um servidor HTTP que recebe requisições e serve um arquivo estático (`webserv`) ou um serviço de bate-papo IRC que segue o protocolo TCP/IP (`ft_irc`). 	|
 | **Transcendence** :restroom:	| Jogue o renomado *Pong* online com as amizades!	| Em time, faça a implantação de uma aplicação web em que qualquer tripulante da 42 pode logar e arranjar uma dupla para jogar uma partida de *Pong*. A aplicação deve ser capaz de transmitir partidas ao vivo, permitir que tripulantes se adicionem em listas de amizades, *achievements* e mais.	|
