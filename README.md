@@ -1,5 +1,3 @@
-
-
 # Projetos na 42sp
 Todos os projetos desenvolvidos na escola 42 São Paulo.
 
@@ -11,6 +9,7 @@ Todos os projetos desenvolvidos na escola 42 São Paulo.
 	- [Fase 2](#fase-2)
 	- [Fase 3](#fase-3)
 - [Como clonar este repositório](#como-clonar-este-repositório)
+- [Profile Intra 42](#-profile-intra-42)
 
 # O que é a 42
 
@@ -79,7 +78,7 @@ git clone --recurse-submodules https://github.com/RogerioLS/Projets_42_SP.git
 
 Mas se quiser clonar apenas o código de um projeto específico, basta clicar no link do projeto desejado na página principal deste repositório, e cloná-lo.
 
-# Profile Intra
+# Profile Intra 42
 
 <div align="center">
 
