@@ -9,7 +9,7 @@ Todos os projetos desenvolvidos na escola 42 São Paulo.
 	- [Fase 2](#fase-2)
 	- [Fase 3](#fase-3)
 - [Como clonar este repositório](#como-clonar-este-repositório)
-- [Profile Intra 42](#-profile-intra-42)
+- [Profile Intra 42](#profile-intra-42)
 
 # O que é a 42
 
