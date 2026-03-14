@@ -37,3 +37,6 @@
 [submodule "13_Inception-42sp"]
 	path = 13_Inception-42sp
 	url = https://github.com/RogerioLS/Inception-42sp
+[submodule "14_Ft_IRC-42sp"]
+	path = 14_Ft_IRC-42sp
+	url = https://github.com/RogerioLS/Ft_IRC-42sp
