@@ -16,7 +16,7 @@ Todos os projetos desenvolvidos na escola 42 São Paulo.
 > *"Sem aulas, sem professores, sem grade horária: acreditamos no poder de **botar a mão na massa**, na **excelência** de habilidades, em avaliações **entre pares** e num sistema de progressão como de **videogames** para fomentar o aprendizado. Os grandes marcos se expressam através de níveis de experiência ao invés de horas-aula. Sua experiência individual determina o seu ritmo de aprendizado."*
 _[Adaptado de material promocional (em inglês).](https://www.42.us.org/wp-content/uploads/2020/01/42-Booklet-Spring-2020.pdf)_
 
-![Galáxia da 42 - o santo gráfico](https://user-images.githubusercontent.com/49699403/209717594-ea05be2d-14d7-42e1-a4db-22ea612d251c.png)
+![Galáxia da 42 - o santo gráfico](images/galaxy.png)
 
 
 O programa-constelação se divide em duas partes principais: o tronco principal de conhecimentos fundamentais (camadas internas, também chamado de **common core**), e as trilhas complementares de **especialização** (camada mais externa), ramificando rumo ao infinito e além.
